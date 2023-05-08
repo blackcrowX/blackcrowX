@@ -1,5 +1,5 @@
-<p align="center" style="margin:10px">
-	<a target="_blank" href="https://drive.google.com/file/d/1qNTQjqRmA6KlArEhipUQRzaRKwCvD8TR/view?usp=share_link">
+<p align="center">
+	<a style="margin:10px" target="_blank" href="https://drive.google.com/file/d/1qNTQjqRmA6KlArEhipUQRzaRKwCvD8TR/view?usp=share_link">
 		<img width="10%" style="padding:10px" src="https://github.com/blackcrowX/blackcrowX.github.io/blob/main/images/icons/html-5.png?raw=true"/></a>
 	<a target="_blank" href="https://drive.google.com/file/d/1qNTQjqRmA6KlArEhipUQRzaRKwCvD8TR/view?usp=share_link">
     		<img width="10%" style="padding:10px" src="https://github.com/blackcrowX/blackcrowX.github.io/blob/main/images/icons/css-3.png?raw=true"/></a>
