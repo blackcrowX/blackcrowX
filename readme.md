@@ -1,11 +1,10 @@
 <p align="center">
-  	<a target="_blank" href="https://drive.google.com/file/d/1BN-oPF54H449OeDzqHEILfNDnIm_PEGt/view?usp=sharing">
-    		<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/ms-excel.png"/></a>
 	<a target="_blank" href="https://drive.google.com/file/d/1qNTQjqRmA6KlArEhipUQRzaRKwCvD8TR/view?usp=share_link">
-		<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5.png"/></a>
+		<img width="10%" style="padding:5px" src="https://github.com/blackcrowX/blackcrowX.github.io/blob/main/images/icons/html5.png?raw=true"/></a>
 	<a target="_blank" href="https://drive.google.com/file/d/1qNTQjqRmA6KlArEhipUQRzaRKwCvD8TR/view?usp=share_link">
-    		<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3.png"/></a>
+    		<img width="10%" style="padding:5px" src="https://github.com/blackcrowX/blackcrowX.github.io/blob/main/images/icons/css3.png?raw=true"/></a>
 	<a target="_blank" href="https://drive.google.com/file/d/1oJ0w60LNJyLpO5dHZhpHK4Ge88vcVUvb/view?usp=sharing">
-    		<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/></a>
-
+    		<img width="10%" style="padding:5px" src="https://github.com/blackcrowX/blackcrowX.github.io/blob/main/images/icons/javascript.png?raw=true"/></a>
+  	<a target="_blank" href="https://drive.google.com/file/d/1BN-oPF54H449OeDzqHEILfNDnIm_PEGt/view?usp=sharing">
+    		<img width="10%" style="padding:5px" src="https://github.com/blackcrowX/blackcrowX.github.io/blob/main/images/icons/ms-excel.png?raw=true"/></a>
 </p>
