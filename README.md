@@ -4,6 +4,10 @@
 
 <h1 align="center">Hi 👋 My name is Matthias</h1>
 
+<p align="center">
+<img src="https://i.postimg.cc/K8mbkyhz/Logo-Black.png"/>
+</p>
+
 ### Skills
 
 
