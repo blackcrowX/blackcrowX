@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=blackcrowX&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthias</h1>
+<h1 align="center">Hi 👋 My name is Matthias</h1>
 
 ### Skills
 
