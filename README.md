@@ -23,13 +23,13 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/blackcrowX"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=blackcrowX&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="blackcrowX's GitHub stats" /></a>
+<a href="http://www.github.com/blackcrowX"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=blackcrowX&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="blackcrowX's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
-<a href="https://github.com/blackcrowX/Data_Analysis_Portfolio" align="left"><img align="left" width="450px%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
-
-<a href="https://github.com/blackcrowX/Data_Analysis_Projects" align="right"><img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/blackcrowX/Data_Analysis_Portfolio" align="left"><img align="left" width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
+<br>
+<a href="https://github.com/blackcrowX/Data_Analysis_Projects" align="right"><img align="right" width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
