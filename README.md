@@ -28,8 +28,9 @@
 <b>Top Repositories</b>
 
 <a href="https://github.com/blackcrowX/Data_Analysis_Portfolio" align="left"><img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
-<br />
-<a href="https://github.com/blackcrowX/Data_Analysis_Projects" align="right"><img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><br /><br /><br /><br /><br /><br /><br />
+
+<a href="https://github.com/blackcrowX/Data_Analysis_Projects" align="right"><img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
+<br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
