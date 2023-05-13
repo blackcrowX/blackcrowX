@@ -26,6 +26,6 @@
  </a>
  <div width="100%" align="center">
   <a href="https://github.com/blackcrowX/Data_Analysis_Portfolio" align="left">
-    <img align="left" width="44.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" />
+    <img align="left" width="44.65%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" />
   </a>
 </div>
