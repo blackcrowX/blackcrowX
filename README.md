@@ -1,7 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=blackcrowX">
-  <img align="right" src="https://komarev.com/ghpvc/?username=blackcrowX&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <h1 align="center">Hi 👋 My name is Matthias</h1>
 
 ### Skills
