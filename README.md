@@ -3,7 +3,6 @@
 </a>
 
 <h1 align="center">Hi 👋 My name is Matthias</h1>
-=========================
 
 ### Skills
 
