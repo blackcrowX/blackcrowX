@@ -24,8 +24,8 @@
  <a href="http://www.github.com/blackcrowX">
   <img src="https://github-readme-stats.vercel.app/api?username=blackcrowX&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="blackcrowX's GitHub stats" />
  </a>
- <div width="95%" align="center">
+ <div width="100%" align="center">
   <a href="https://github.com/blackcrowX/Data_Analysis_Portfolio" align="left">
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" />
+    <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcrowX&repo=Data_Analysis_Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" />
   </a>
 </div>
