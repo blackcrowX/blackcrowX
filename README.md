@@ -1,6 +1,9 @@
 Hi 👋 My name is Matthias
 =========================
 
+<a href="https://www.github.com/blackcrowX" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/blackcrowX?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+
 ### Skills
 
 <p align="left">
