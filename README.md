@@ -1,4 +1,4 @@
-<p align="center">Welcome to my page!</p>
+<h2 align="center">Welcome to my page!</h2>
 =========================
 
 <a href="https://www.github.com/blackcrowX" target="_blank" rel="noreferrer"><img
